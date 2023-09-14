@@ -1,7 +1,11 @@
 public greet(){
 
+<<<<<<< Updated upstream
 }
 
 public void main() {
+=======
+system.out.println();
+>>>>>>> Stashed changes
 
 }
